@@ -1,0 +1,15 @@
+6,A,B,C,D,E,F
+g,202,Mehmet,Beyaz,Veri Madenciligi,Derya Birant
+5,4,4,1,2,4
+u,103,Ali,Ceviz,Yapay zeka
+4,3,3,2,3,3
+u,105,Veli,Tuz,Gomulu sistemler
+4,4,3,1,3,5
+u,106,Zeynep,Demir,Yapay zeka
+3,2,4,2,4,5
+g,204,Ahmet,Tunc,Makine ogrenmesi,Aybars Ugur
+5,3,4,2,2,4
+u,109,Ahmet,Kara,Yazilim muhendisligi
+5,4,2,1,2,3
+g,205,Ayse,Can,Makine öğrenmesi,Aybars Ugur
+4,4,3,2,3,5
